@@ -1,0 +1,13 @@
+{
+  "name": "patchranger/swoole-load-tester",
+  "description": "Swoole Test-load Client",
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "voku/simple_html_dom": "^4.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "protected"
+    }
+  }
+}
